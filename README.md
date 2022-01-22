@@ -2,7 +2,7 @@
 ### Olá Eu sou o Iago Cabral :)
 
 - 🔭 Estudante de Engenharia de Software na <a href="https://www.unb.br"> Universidade de Brasilia</a>
-- 🌱 Atualmente estudando sobre Metodos de desenvolvimentos de softaware e estrutura de dados 
+- 🌱 Atualmente estudando sobre Metodos de Desenvolvimentos de Software e Estrutura de Dados 
 - 🤔 Me aprofundando nas linguagens C e Java
 - 📫 Contate-me no email: iagocabral.software@gmail.com
 
