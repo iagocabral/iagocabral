@@ -7,7 +7,7 @@
 - 📫 Contate-me no email: iagocabral.software@gmail.com
 
 
->“I have not failed. I’ve just found 10,000 ways that won’t work.” by Thomas Edison.
+>Keep Going
 
 <div align="center">
   <a href="https://github.com/iagocabral">
